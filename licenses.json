@@ -11,5 +11,6 @@
   {"id":10,"user":"Ricardo Enríquez","day":24,"month":2,"year":2022,"duration":150,"machine":"S-1-5-21-2585274715-378658445-2606609378"},
   {"id":11,"user":"Jefferson Yar","day":25,"month":2,"year":2022,"duration":150,"machine":"S-1-5-21-948513838-1030807025-2012844657"},
   {"id":12,"user":"Pedro Acosta","day":4,"month":3,"year":2022,"duration":150,"machine":"S-1-5-21-2443917050-2924888592-3403922977"},
-  {"id":13,"user":"Annette Morales","day":5,"month":3,"year":2022,"duration":150,"machine":"S-1-5-21-1910452248-924678252-852916230"}
+  {"id":13,"user":"Annette Morales","day":5,"month":3,"year":2022,"duration":150,"machine":"S-1-5-21-1910452248-924678252-852916230"},
+  {"id":14,"user":"Carlos García","day":7,"month":3,"year":2022,"duration":150,"machine":"S-1-5-21-3187314750-3683281327-4157428924"}
 ]
