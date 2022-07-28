@@ -42,5 +42,6 @@
   {"id":41,"user":"Cinthia Cacuango","day":25,"month":7,"year":2022,"duration":150,"machine":"S-1-5-21-1290055482-1923988618-1566549998"},
   {"id":42,"user":"María Terán","day":26,"month":7,"year":2022,"duration":150,"machine":"S-1-11-96-3623454863-58364-18864-2661722203-1597581903-961487415-2481730985-3082311445-559038305"},
   {"id":43,"user":"Andrés Cepeda","day":26,"month":7,"year":2022,"duration":150,"machine":"S-1-5-21-400704101-537858212-2702724540"},
-  {"id":44,"user":"Victoria Calahorrano","day":26,"month":7,"year":2022,"duration":150,"machine":"S-1-5-21-630183222-1293897805-686452663"}
+  {"id":44,"user":"Victoria Calahorrano","day":26,"month":7,"year":2022,"duration":150,"machine":"S-1-5-21-630183222-1293897805-686452663"},
+  {"id":45,"user":"Renato Caluña","day":27,"month":7,"year":2022,"duration":150,"machine":"S-1-5-21-660549901-4096005883-491159879"}
 ]
