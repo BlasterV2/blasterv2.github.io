@@ -1,5 +1,5 @@
 [
-  {"id":1,"user":"Elí Romero","day":1,"month":8,"year":2022,"duration":1,"machine":"S-1-5-21-356992060-2782628925-4170004919"},
+  {"id":1,"user":"Elí Romero","day":1,"month":8,"year":2022,"duration":10000000000,"machine":"S-1-5-21-356992060-2782628925-4170004919"},
   {"id":2,"user":"Alexis Yánez","day":22,"month":1,"year":2022,"duration":150,"machine":"S-1-11-96-3623454863-58364-18864-2661722203-1597581903-3635568798-1532130215-2465888316-963396279"},
   {"id":3,"user":"José Pachacama","day":25,"month":1,"year":2022,"duration":150,"machine":"S-1-5-21-4045260432-211912795-2825237285"},
   {"id":4,"user":"Cristina Alarcón","day":2,"month":2,"year":2022,"duration":150,"machine":"S-1-11-96-3623454863-58364-18864-2661722203-1597581903-453204993-1007797790-3197798054-1250887042"},
@@ -50,5 +50,5 @@
   {"id":49,"user":"Andy Segovia","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-2593202894-734340413-2022721594"},
   {"id":50,"user":"Mishell Coque","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-1480700331-1337416694-725062699"},
   {"id":51,"user":"Ernesto Corrales","day":1,"month":8,"year":2022,"duration":150,"machine":"000"},
-  {"id":52,"user":"Ernesto Corrales (Temporizado)","day":1,"month":8,"year":2022,"duration":1,"machine":"S-1-5-21-1639426438-1379500773-3965297271"}
+  {"id":52,"user":"Ernesto Corrales (Temporizado)","day":1,"month":8,"year":2022,"duration":2,"machine":"S-1-5-21-1639426438-1379500773-3965297271"}
 ]
