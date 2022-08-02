@@ -48,5 +48,7 @@
   {"id":47,"user":"Alex Gualotuña","day":28,"month":7,"year":2022,"duration":151,"machine":"S-1-11-96-3623454863-58364-18864-2661722203-1597581903-3419619321-3808077596-3615476206-2256084735"},
   {"id":48,"user":"Luis Ganán","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-3086781053-331038579-1298655367"},
   {"id":49,"user":"Andy Segovia","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-2593202894-734340413-2022721594"},
-  {"id":50,"user":"Mishell Coque","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-1480700331-1337416694-725062699"}
+  {"id":50,"user":"Mishell Coque","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-1480700331-1337416694-725062699"},
+  {"id":51,"user":"Ernesto Corrales","day":1,"month":8,"year":2022,"duration":150,"machine":"000"},
+  {"id":52,"user":"Ernesto Corrales (Temporizado)","day":1,"month":8,"year":2022,"duration":150,"machine":"S-1-5-21-1639426438-1379500773-3965297271"}
 ]
